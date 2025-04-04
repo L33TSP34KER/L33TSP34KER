@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://c4.wallpaperflare.com/wallpaper/785/356/955/serial-experiments-lain-anime-lain-iwakura-anime-girls-wallpaper-preview.jpg">
 
-<!--
-**L33TSP34KER/L33TSP34KER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><i>~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~</i></p>
+</p>
+<img align="left" width=200 src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```zig
+return NPC {
+  .age = 1147039200,
+  .flags = &[_]Flag{ .Autistic, .Passionate, .Curious },
+  .ide = "neovim",
+  .school = "EPITECH",
+  .optimization = &[_]Optimization{.LabmdaNPC},
+  .distro = "Gentoo"
+};
+```
